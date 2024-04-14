@@ -51,13 +51,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=EduardoSousa2006&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EduardoSousa2006/EduardoSousa2006/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/EduardoSousa2006/count.svg?"  />
